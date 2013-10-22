@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Stock Reports</string>
+    <string name="action_settings">Settings</string>
+    <string name="yahoo_stock_url">http://finance.yahoo.com/q?s=</string>			
+    <string name="stock_company_name">Company Name</string>
+    <string name="stock_year_low">Year Low:</string>
+    <string name="stock_year_high">Year High:</string>
+    <string name="stock_days_low">Days Low:</string>
+    <string name="stock_days_high">Days High:</string>
+    <string name="last_trade_price_only">Last Price:</string>
+    <string name="days_range">Daily Price Range:</string>
+    <string name="title_activity_stock_info">StockInfoActivity</string>
+    <string name="stock_price_change">Change:</string>
+
+</resources>
